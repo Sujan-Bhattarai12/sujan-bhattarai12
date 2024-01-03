@@ -1,54 +1,72 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 </div>
-<div id="badges" style="text-align: center;">
+<div id="badges" align = "center"">
   <a href="https://www.linkedin.com/in/bhattarai1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+</div>
+
+<h1 align = 'center'>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div class="recent-updates">
+    <strong class="heading">Recent Updates:</strong><br>
+    - 🚀 Working in Big Data System with Apache Hive & Impala<br>
+    - 📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
+    - 🌐 Initiating a new Python project for a new blog
 </div>
 
 
 
-I'm Sujan Bhattarai, a passionate Data Science student currently pursuing my degree at the University of California, Santa Barbara, based in CA.
 
-🌐 Portfolio Website: [portfolio website](sujan-bhattarai12.github.io)
+### :hammer_and_wrench: Languages and Tools :
+<div align="left">
+  <!-- Python -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
 
-📧 Contact:
-University Email: sujan@ucsb.edu
-Personal Email: sujanbhattarai.jr@gmail.com
+  <!-- R -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" style="margin-right: 10px;"/>
 
-🔍 About Me:
-I am dedicated to exploring the realms of data science, leveraging my skills to derive meaningful insights from complex datasets. I had a non-tech background during my undergrad, but I self-studied programming and mathematics, passed a couple of tech job interviews, and Worked as a Clinical Data analyst for a year. Now, My academic journey at UCSB is tech-based and I spend 10 hours exploring and learning tech skills.
+  <!-- Apache -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40" style="margin-right: 10px;"/>
 
-💻 Portfolio Highlights:
-Feel free to explore my [portfolio website](sujan-bhattarai12.github.io) to discover projects showcasing my proficiency in data manipulation, exploratory data analysis, predictive modeling, and more. Each project reflects my commitment to applying data science techniques to solve real-world problems.
+  <!-- SQL -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40" style="margin-right: 10px;"/>
+
+  <!-- HTML -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="margin-right: 10px;"/>
+
+  <!-- GitHub -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+
+  <!-- Hadoop -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1200px-SAS_logo_horiz.svg.png" title="Hadoop" alt="Hadoop" width="40" height="40" style="margin-right: 10px;"/>
+
+  <!-- SAS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="SAS" alt="SAS" width="40" height="40" style="margin-right: 10px;"/>
+</div>
+
+
+
+
+<div>
+### :fire: Statistics :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujan-bhattarai12&theme=merko&border_radius=4.7)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-bhattarai12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+ 📧 **Contact:**
+  - University Email: sujan@ucsb.edu
+  - Personal Email: sujanbhattarai.jr@gmail.com
+
 
 🤝 Let's Connect:
 I am open to collaborations, discussions, and networking opportunities. Whether you have questions about my projects or want to explore potential partnerships, feel free to reach out. Looking forward to connecting with fellow data enthusiasts!
 
-
-
-
-
-<!--
-**Sujan-Bhattarai12/sujan-bhattarai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
