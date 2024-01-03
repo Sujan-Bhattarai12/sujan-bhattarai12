@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 I'm Sujan Bhattarai, a passionate Data Science student currently pursuing my degree at the University of California, Santa Barbara, based in CA.
 
 🌐 Portfolio Website: [portfolio website](sujan-bhattarai12.github.io)
