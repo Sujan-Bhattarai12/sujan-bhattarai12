@@ -58,8 +58,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sujan-bhattarai12&theme=dark&background=000000)](https://git.io/streak-stats?v=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-bhattarai12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats?v=1)
 
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujan-bhattarai12&show_icons=true&theme=cobalt)
-
 📧 **Contact:**
 - University Email: sujan@ucsb.edu
 - Personal Email: sujanbhattarai.jr@gmail.com
