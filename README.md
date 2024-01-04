@@ -54,13 +54,11 @@
 
 
 
-<div>
+
 ### :fire: Statistics :
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujan-bhattarai12&theme=merko&border_radius=4.7)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-bhattarai12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
  📧 **Contact:**
   - University Email: sujan@ucsb.edu
