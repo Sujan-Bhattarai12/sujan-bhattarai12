@@ -14,9 +14,9 @@
 
 
 ### :fire: Updates:
-  - 🚀 Working in Big Data System with Apache Hive & Impala<br>
-  - 📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
-  - 🌐 Initiating a new Python project for a new blog
+   🚀 Working in Big Data System with Apache Hive & Impala<br>
+   📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
+   🌐 Initiating a new Python project for a new blog
 
 
 ### :hammer_and_wrench: Languages and Tools :
