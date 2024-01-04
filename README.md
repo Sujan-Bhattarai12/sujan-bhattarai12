@@ -61,3 +61,9 @@
 📧 **Contact:**
 - University Email: sujan@ucsb.edu
 - Personal Email: sujanbhattarai.jr@gmail.com
+- 
+
+### Thanks for Visiting
+If you have come this far, revise Hadoop CLI(HDFS DFS) commands, extremely useful if you are using SQL for Big data analysis)
+[Apache_CLI](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/FileSystemShell.html)
+
