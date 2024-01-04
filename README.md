@@ -12,12 +12,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div class="recent-updates" align="left">
-  <strong class="heading">Recent Updates:</strong><br>
+
+### :fire: Updates:
   - 🚀 Working in Big Data System with Apache Hive & Impala<br>
   - 📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
   - 🌐 Initiating a new Python project for a new blog
-</div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="left">
