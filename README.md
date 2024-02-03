@@ -14,7 +14,7 @@
 
 
 ### :fire: Updates:
-   🖥️ Working on 4TB data on NCAR supercomputer, for developing a web-interactive dashboard<br>
+   🖥️ Working on 4TB data on NCAR supercomputer, for developing Machine Learning model and a web-interactive dashboard<br>
    🚀 Learning Big Data System with Apache Hive & Impala<br>
    📚 Reading Machine Learning with Scikit Learn book by O'Reilly<br>
    🌐 Initiating a new Python project for a new blog in ML 
